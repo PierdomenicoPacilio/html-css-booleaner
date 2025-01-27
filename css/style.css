@@ -75,3 +75,25 @@ tbody{
     background-color: white;
 }
 /* /tabella */
+
+h3{
+    margin-top: 0px;
+}
+
+.extra1{
+    color: white;
+    width: 210px;
+    height: 175px;
+    background-image: url(img/monitor.jpg);
+    background-size: 250px;
+    background-repeat: no-repeat;
+}
+
+.extra2{
+    color: white;
+    width: 210px;
+    height: 175px;
+    background-image: url(img/graph.jpg);
+    background-size: 250px;
+    background-repeat: no-repeat;
+}
