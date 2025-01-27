@@ -38,3 +38,11 @@ h1{
 .sottolineato{
     background-color: yellow;
 }
+
+p{
+    margin-bottom: 30px;
+}
+
+ul{
+    padding-left: 15px;
+}
