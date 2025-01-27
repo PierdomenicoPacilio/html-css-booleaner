@@ -46,3 +46,32 @@ p{
 ul{
     padding-left: 15px;
 }
+
+/* tabella */
+table{
+    border-collapse: collapse;
+}
+
+thead{
+    background-color:dodgerblue;
+    color: white;
+}
+
+th{
+    text-align: left;
+    width: 250px;
+    font-weight:lighter;
+}
+
+.terzo{
+    width: 600px;
+}
+
+tbody{
+    background-color: lightskyblue;
+}
+
+.bianco{
+    background-color: white;
+}
+/* /tabella */
